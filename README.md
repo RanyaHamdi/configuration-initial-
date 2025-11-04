@@ -1,2 +1,2 @@
 # configuration-initial-
-tp1 amani ranya git bach
+tp1 hamdiranya git bach
